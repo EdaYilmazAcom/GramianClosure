@@ -1,4 +1,4 @@
-# GramianClosure
+# Gramian Closure
 
 Implementation and experimental study of nonlinear closure techniques for moment systems based on orthogonal polynomials.
 
